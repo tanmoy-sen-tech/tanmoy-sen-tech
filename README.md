@@ -1,6 +1,9 @@
 - 👋 Hi, I’m @tanmoy-sen
+-  Frontend Developer with 6+ years of experience building and maintaining responsive websites for different domains using HTML5, CSS,
+SCSS and Bootstrap.He has experience with Javascript,Typescript,Jquery and UI technologies like Angular, ngRx,RxJS.
+- I have worked on Micro Frontend projects, and building Custom UI Libraries.
+- I am  familiar with Accessibility standards, Web performance and optimization.
 - 👀 I’m interested in Fullstack Development
-- 🌱 I’m currently learning Nodejs
 - 💞️ I’m looking to collaborate on freelance projects
 - 📫 How to reach me ...
 mail: tanmoysen03@gmail.com
